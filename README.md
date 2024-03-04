@@ -1,16 +1,35 @@
-### Hi there 👋
+### Hi. I'm Nick. I'm a front end engineer that loves to work in React. Here are some things I've done.
 
-<!--
-**npm1514/npm1514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![look what I can do](https://media1.tenor.com/m/nz7wNR3JtW8AAAAC/yep-look-what-i-can-do.gif)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I have worked for the following businesses and projects
+
+* Thuma - https://www.thuma.co
+* Shopify (B2B) - https://www.shopify.com
+   * Unite - https://unite.shopify.com
+* eSpecialty Insurance - https://especialty.com
+* Cafe Juniper - https://github.com/npm1514/cafejuniperslc
+* Nelson Rosier - https://www.nrclaw.com
+* Overstock - https://www.overstock.com
+   * Asset Management Tool
+   * New Movers - [Link](https://www.linkedin.com/in/nickmarucci/details/featured/1561655304040/single-media-viewer/?profileId=ACoAABcwS1EB2rwDCM-82qR-8EcymMrO5RjszZw)
+   * Room Ideas - [Link](https://www.linkedin.com/in/nickmarucci/details/featured/1561655303896/single-media-viewer/?profileId=ACoAABcwS1EB2rwDCM-82qR-8EcymMrO5RjszZw)
+   * Bundles - [Link](https://www.linkedin.com/in/nickmarucci/details/featured/1561655304173/single-media-viewer/?profileId=ACoAABcwS1EB2rwDCM-82qR-8EcymMrO5RjszZw)
+   * Newsroom - https://corporate.beyond.com/corporate/newsroom
+* The Social Institute - https://thesocialinstitute.com
+* Plantarion - [Link](https://www.linkedin.com/company/plantarion/about)
+
+### Tools I have experience with
+
+* HTML
+* CSS (Tailwind, Styled Components, CSS Modules)
+* JavaScript / TypeScript
+* Frameworks (Next, React, Angular, Rails, Vue)
+* Testing (Jest, React Testing Library, Cypress)
+* Libraries (Webpack, Babel, Redux, Storybook, jQuery, D3)
+* Build Tools (Docker, Jenkins)
+* Node (npm, Express)
+* Ruby
+* GraphQL
+* Databases (noSQL, SQL)
