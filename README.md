@@ -1,8 +1,5 @@
 ### Hi. I'm Nick. I'm a Front End Engineer that loves to work in React. Here are some things I've done.
 
-![look what I can do](https://media1.tenor.com/m/nz7wNR3JtW8AAAAC/yep-look-what-i-can-do.gif)
-
-
 ### I have worked for the following businesses and projects
 
 * Thuma - https://www.thuma.co
