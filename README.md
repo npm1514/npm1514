@@ -15,7 +15,6 @@
    * Bundles - [Link](https://www.linkedin.com/in/nickmarucci/details/featured/1561655304173/single-media-viewer/?profileId=ACoAABcwS1EB2rwDCM-82qR-8EcymMrO5RjszZw)
    * Newsroom - https://corporate.beyond.com/corporate/newsroom
 * The Social Institute - https://thesocialinstitute.com
-* Plantarion - [Link](https://www.linkedin.com/company/plantarion/about)
 
 ### Tools I have experience with
 
