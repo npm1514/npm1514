@@ -2,6 +2,7 @@
 
 ### I have worked for the following businesses and projects
 
+* Class Chat - https://classchat.us
 * Thuma - https://www.thuma.co
 * Shopify (B2B) - https://www.shopify.com
    * Unite - https://unite.shopify.com
