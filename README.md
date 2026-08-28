@@ -2,6 +2,8 @@
 
 ### I have worked for the following businesses and projects
 
+* Butter - https://butter-rewards.vercel.app/
+* Canopy - https://www.getcanopy.com/
 * Class Chat - https://classchat.us
 * Thuma - https://www.thuma.co
 * Shopify (B2B) - https://www.shopify.com
