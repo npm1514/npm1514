@@ -32,3 +32,4 @@
 * Ruby
 * GraphQL
 * Databases (noSQL, SQL)
+* AI (Claude, Cursor, Copilot, ChatGPT)
